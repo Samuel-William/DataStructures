@@ -1,2 +1,2 @@
-# DataStructures
-# Code for Basic DataStructures as a refresher who wanted to have a quick look
+# Small Programs in Scala and Java
+# Write code in both scala and Java along with the test cases so that people can appreciate and understand the differences between the languages
